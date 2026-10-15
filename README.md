@@ -6,7 +6,7 @@
 
 ### Şu sıralar
 
-**[Hoset](https://github.com/eyyun/hoset)**, delidehset.com için yazdığım gayriresmi Android istemcisi. Siteyi WebView'e gömmek yerine uç noktalarıyla doğrudan konuşuyor: akış, gönderiler, profil, topluluklar ve yazılı/sesli sohbet odası yerel Compose arayüzüyle çalışıyor. Uygulamayı [sürümler](https://github.com/eyyun/hoset/releases/latest) sayfasından indirebilirsiniz.
+**[Hoset](https://github.com/eyyun/hoset)**, delidehset.com için yazdığım gayriresmi Android istemcisi. Sitenin uç noktalarıyla doğrudan konuşuyor: akış, gönderiler, profil, topluluklar ve yazılı/sesli sohbet odası yerel Compose arayüzüyle çalışıyor. Uygulamayı [sürümler](https://github.com/eyyun/hoset/releases/latest) sayfasından indirebilirsin.
 
 <br clear="right">
 
